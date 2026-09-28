@@ -1,0 +1,11 @@
+email,label
+"Congratulations! You have won a $1000 prize. Click here to claim your reward.",phishing
+"Your account has been suspended. Verify your password immediately.",phishing
+"Urgent! Click this link to confirm your bank account details.",phishing
+"You have been selected for a free iPhone. Claim your prize now.",phishing
+"Your password will expire today. Click here to keep your account active.",phishing
+"Please send me the project report before tomorrow.",legitimate
+"Hi John, the meeting is scheduled for 10 AM tomorrow.",legitimate
+"Please find the assignment attached to this email.",legitimate
+"Can you please review the project report?",legitimate
+"Thank you for your help with the project.",legitimate
